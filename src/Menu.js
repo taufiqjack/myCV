@@ -420,7 +420,11 @@ Profile
                       <div className="client-item">
                         <div className="image">
                           <a target="" href="https://www.google.com/">
-                            <img src="images/clients/client_3.png" alt="" />
+                            <img src="images/clients/cl
+                            
+                            
+                            
+                            ient_3.png" alt="" />
                           </a>
                         </div>
                       </div>
